@@ -1,0 +1,2 @@
+# game
+ENGINE: COCOS CREEATOR 3.4
